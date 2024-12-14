@@ -2,8 +2,24 @@
 Prerequisites
 Python Installation:
 
+
 Download and install Python from python.org.
 During installation, check "Add Python to PATH".
+
+Use a Virtual Environment
+To avoid global PATH issues, set up a virtual environment:
+
+1.Create the virtual environment
+  copy and paste in terminal or command prompt
+  'python -m venv myenv'
+
+2.Activate it:
+  Command Prompt:
+  copy and paste in terminal or command prompt
+  'myenv\Scripts\activate'
+
+
+
 Install Django:
 
 Open Command Prompt or Terminal and run:
